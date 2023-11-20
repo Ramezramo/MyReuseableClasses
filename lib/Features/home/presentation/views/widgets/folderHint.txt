@@ -1,2 +1,0 @@
-in this dir you will add home view widgets like the body of your page
-and any widget you will wrap it in this folder and you will make it as a class or a void

@@ -1,2 +1,0 @@
-in this dir you will add some fixed and complex strings
-to repeat like the {directories ,Text styles , photos directories ,links }
